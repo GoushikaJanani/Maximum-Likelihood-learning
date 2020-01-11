@@ -3,4 +3,4 @@ Each pixel in an image is assumed to be a random variable following Gaussian dis
 
 Header-only Eigen library is used for matrix calculations. The multivariate gaussian distribution described below is implemented using cholesky decomposition.
 
-![Computer vision: models, learning and inference](distribution.jpg)
+![Computer vision: models, learning and inference](./distribution.JPG)
