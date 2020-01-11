@@ -1,7 +1,7 @@
 #include "Norm.h"
 
 
-Norm::Norm(Eigen::MatrixXi dataImg) : data(dataImg)
+Norm::Norm(Eigen::MatrixXi& dataImg) : data(dataImg)
 {
 	img_size = (int)sqrt(data.cols());
 }
